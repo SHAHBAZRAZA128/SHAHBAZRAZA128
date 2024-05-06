@@ -58,6 +58,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazraza128" alt="shahbazraza128" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbazraza128&show_icons=true&locale=en&layout=compact" alt="shahbazraza128" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbazraza128&show_icons=true&locale=en" alt="shahbazraza128" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazraza128&" alt="shahbazraza128" /></p>
+
+
+
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
