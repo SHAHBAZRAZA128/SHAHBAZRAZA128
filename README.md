@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,tailwind,phpstorm,postman,powershell,replit,github,figma,git" />
-   <img src="https://logowik.com/content/uploads/images/651_codeigniter.jpg" width="75"style="border-radius: 10px;" /><br>
+   <img src="https://logowik.com/content/uploads/images/651_codeigniter.jpg" width="62"/><br>
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,javascript,typescript,express,php,mysql,postgresql,cpp,laravel,npm,windows,svg,jquery" />
 </div>
 
