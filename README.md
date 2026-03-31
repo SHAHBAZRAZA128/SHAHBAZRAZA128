@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/shahbazprince" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://shahbazraza128.github.io/portfolio/" target="_blank">
+  <a href="https://portfolio-kappa-six-nvnioff6w6.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://ko-fi.com/shahbazraza" target="_blank">
